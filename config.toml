@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "https://aqua-links.com/"
+baseurl = "http://www.ayanev.eu/aqua-links/"
 # languageCode = "en"
 title = "AquaLinks"
 theme = "vex-blog"
